@@ -11,7 +11,7 @@ I bridge the gap between advanced scientific principles and practical solutions 
   - **Data Science & Machine Learning**: Pandas, NumPy, Scikit-learn, PySpark
   - **Data Engineering**: SQL, Spark
   - **Visualization & Reporting**:  Matplotlib, Seaborn
-  - **Specialized Tools/Skills**:  Signal processing, 
+  - **Specialized Tools/Skills**:  Signal processing, Remote Sensing.
 <!--
 ## 🚀 Current Projects:
 - **Power Systems Optimization**: Using machine learning to predict energy demand, optimize grid performance, and forecast failures.
